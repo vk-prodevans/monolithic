@@ -11,10 +11,9 @@ public class ProductController {
 
     @GetMapping("/product")
     public Product getProduct() {
-        // Hardcoded product details
-        Product product = new Product();
 
-        return product;
+
+        return new Product();
     }
 }
 
