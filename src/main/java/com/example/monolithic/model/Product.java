@@ -1,8 +1,7 @@
-package com.example.monolithic.Model;
+package com.example.monolithic.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
-import lombok.NoArgsConstructor;
 import lombok.Setter;
 
 @Getter

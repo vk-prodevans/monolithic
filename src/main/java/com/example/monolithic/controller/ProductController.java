@@ -1,6 +1,6 @@
-package com.example.monolithic.Controller;
+package com.example.monolithic.controller;
 
-import com.example.monolithic.Model.Product;
+import com.example.monolithic.model.Product;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
